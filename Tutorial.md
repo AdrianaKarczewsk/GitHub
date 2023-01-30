@@ -7,7 +7,7 @@
 
 1. Docs for Devs: [Markdown] (https://www.youtube.com/watch?v=Y7hs3vAcVt0)
 
-**CURSO REALIZADO **        |   **DURAÇÃO ** |
+**CURSO REALIZADO**        |   **DURAÇÃO** |
 :--------------------------:|:---------------------:
         Git completo        |      8:19     |
     Markdown                |      1:25     |
