@@ -1,6 +1,6 @@
 # _**Olá!**_ 
 
-## Esse arquivo contém informações sobre as atividades do módulo a seguir:
+## Esse arquivo contém informações sobre as atividades do módulo a s
 
 * Essentials
 1. Code Version Control: [Git completo] (https://compassuol.udemy.com/course/git-completo-do-basico-ao-avancado/learn/lecture/6514630?learning_path_id=3851832#overview)
