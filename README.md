@@ -1,2 +1,2 @@
 # GitHub
- Meu repositório
+ Meu repositório contendo as atividades.
